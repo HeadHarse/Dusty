@@ -1,1 +1,2 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HeadHarse/Dusty/refs/heads/main/IncredibleDusk.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HeadHarse/Dusty/refs/heads/main/Toggleui.txt"))()
